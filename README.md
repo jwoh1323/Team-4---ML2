@@ -1,9 +1,10 @@
-# Machine Learning for Business Applications 2 Final Prjoject
+# Machine Learning for Business Applications 2 
+# Final Prjoject
 # Group 4
 
 *Steven Luong, Emma MacKay, Jinwoo Oh, Thao Spraggins*
 
-**News Category Detection**
+**Predicting Purchases, Ratings, and Categories Based on Amazon Reviews**
 
 This repsoitory represent the codings used for each prediction task. 
 For the rating prediction task, we implemented a latent factor model with regularization.
