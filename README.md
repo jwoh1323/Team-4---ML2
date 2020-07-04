@@ -5,7 +5,7 @@
 
 **Predicting Purchases, Ratings, and Categories Based on Amazon Reviews**
 
-This repsoitory contains the codings used for each prediction task. <br />
+This repsoitory contains the codes used for each prediction task. <br />
 For the rating prediction task, we implemented a latent factor model with regularization. <br />
 For the purchase prediction task, we used a decision tree combined with similarity index using a Jaccard index. <br />
 For the category prediction, we used a convolutional neural network as well as a logistic regression with count vectorization. <br />
